@@ -1,5 +1,4 @@
 
-Check and get the latest appointment data for vaccination centers near you.
 
 <p align=center>
   <img title="Built With Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
@@ -20,7 +19,8 @@ Check and get the latest appointment data for vaccination centers near you.
   <a href="https://github.com/1ucif3r/network/members"><img title="Forks" src="https://img.shields.io/github/forks/1ucif3r/LBomber?color=red&style=flat-square"></a>
   <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/1ucif3r/LBomber?label=Watchers&color=blue&style=flat-square"></a>
  
-###### <p align="center">*This is official repository maintained by me*
+###### <p align="center">*Check and get the latest appointment data for vaccination centers near you.
+*
 ###### <p align="center"> *[**th3_1ucif3r**](https://www.instagram.com/th3_1ucif3r/) ❤️*
 ###### <p align="center"> *You can check [Instagram](https://www.instagram.com/th3_1ucif3r)✌*
 
@@ -28,5 +28,5 @@ Check and get the latest appointment data for vaccination centers near you.
   
   
  <p align="center">
-  <img src="https://github.com/1ucif3r/LBomber/blob/main/ss.png" alt="ss"/>
+  <img src="https://github.com/1ucif3r/coWINstatus.live/blob/main/ss.png" alt="ss"/>
 </p>
