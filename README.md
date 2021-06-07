@@ -20,7 +20,7 @@
   <a href="https://github.com/1ucif3r"><img title="Watching" src="https://img.shields.io/github/watchers/1ucif3r/coWINstatus.live?label=Watchers&color=blue&style=flat-square"></a>
  
 ###### <p align="center">*Check and get the latest appointment data for vaccination centers near you.
-###### <p align="center"> *[**coWINstatus**](https://cowinstatus.live/) ❤️
+###### <p align="center"> [**coWINstatus**](https://cowinstatus.live/) ❤️
 ###### <p align="center"> *You can check [coWINstatus](https://github.com/coWIN-Status)✌*
 
   
@@ -28,4 +28,13 @@
   
  <p align="center">
   <img src="https://github.com/1ucif3r/coWINstatus.live/blob/main/ss.png" alt="ss"/>
+</p>
+
+ ### Development By :
+
+Developer / Author: [1ucif3r](https://github.com/1ucif3r), [Arijit](https://github.com/ArijitMahapatro)
+
+### <h2 align="center">😈 Visit 😈 </h2>
+<p align="center">
+<a href="https://cowinstatus.live/"><img title="coWINstatus" src="https://img.shields.io/badge/coWINstatus-%23E4405F.svg?&style=for-the-badge&logo=web&logoColor=white"></a>
 </p>
