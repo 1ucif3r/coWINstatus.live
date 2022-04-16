@@ -32,7 +32,7 @@
 
  ### Development By :
 
-Developer / Author: [1ucif3r](https://github.com/1ucif3r), [Arijit](https://github.com/ArijitMahapatro)
+Developer / Author: [1ucif3r](https://github.com/1ucif3r)
 
 ### <h2 align="center">😈 Visit 😈 </h2>
 <p align="center">
